@@ -1,0 +1,426 @@
+OffspringID,offspring_WDFW,offspring_pop,offspring_age,InferredDad,father_pop,InferredMum,mother_pop,parent_years,Probability
+OkeAC23BICH_0001,23BR.001,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0002,23BR.002,BigCreekBroodstock,3,20LP0259,BigCreekBroodstock,20LP0271,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0003,23BR.003,BigCreekBroodstock,4,19QH0025,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0004,23BR.004,BigCreekBroodstock,4,19QH0033,BigCreekBroodstock,19QH0022,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0005,23BR.005,BigCreekBroodstock,4,19QH0028,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0006,23BR.006,BigCreekBroodstock,4,19QH0026,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0007,23BR.007,BigCreekBroodstock,3,20LP0309,BigCreekBroodstock,20LP0323,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0008,23BR.008,BigCreekBroodstock,4,19QH0034,BigCreekBroodstock,19QH0022,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0009,23BR.009,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0010,23BR.010,BigCreekBroodstock,4,19QH0027,BigCreekBroodstock,19QH0016,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0011,23BR.011,BigCreekBroodstock,3,20LP0266,BigCreekBroodstock,20LP0278,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0012,23BR.012,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0013,23BR.013,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0014,23BR.014,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0015,23BR.015,BigCreekBroodstock,3,20LP0108,BigCreekBroodstock,20LP0055,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0016,23BR.016,BigCreekBroodstock,4,19QH0031,BigCreekBroodstock,19QH0020,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0017,23BR.017,BigCreekBroodstock,3,20LP0081,BigCreekBroodstock,20LP0030,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0018,23BR.018,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0019,23BR.019,BigCreekBroodstock,NA,NA,NA,19QH0040,BigCreekBroodstock,NA_19,1
+OkeAC23BICH_0020,23BR.020,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0021,23BR.021,BigCreekBroodstock,3,20LP0095,BigCreekBroodstock,20LP0044,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0022,23BR.022,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0023,23BR.023,BigCreekBroodstock,4,19QH0025,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0024,23BR.024,BigCreekBroodstock,4,19QH0056,BigCreekBroodstock,19QH0045,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0025,23BR.025,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0026,23BR.026,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0027,23BR.027,BigCreekBroodstock,4,19QH0056,BigCreekBroodstock,19QH0045,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0028,23BR.028,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0029,23BR.029,BigCreekBroodstock,4,19QH0008,BigCreekBroodstock,19QH0001,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0030,23BR.030,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0031,23BR.031,BigCreekBroodstock,4,19QH0034,BigCreekBroodstock,19QH0022,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0032,23BR.032,BigCreekBroodstock,NA,20LP0011,BigCreekBroodstock,NA,NA,20_NA,1
+OkeAC23BICH_0033,23BR.033,BigCreekBroodstock,4,19QH0034,BigCreekBroodstock,19QH0022,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0034,23BR.034,BigCreekBroodstock,3,20LP0095,BigCreekBroodstock,20LP0043,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0035,23BR.035,BigCreekBroodstock,4,19QH0027,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0036,23BR.036,BigCreekBroodstock,3,20LP0078,BigCreekBroodstock,20LP0025,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0037,23BR.037,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0038,23BR.038,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0039,23BR.039,BigCreekBroodstock,NA,19QH0034,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23BICH_0040,23BR.040,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0041,23BR.041,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0042,23BR.042,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0043,23BR.043,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0044,23BR.044,BigCreekBroodstock,4,19QH0030,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0045,23BR.045,BigCreekBroodstock,3,20LP0243,BigCreekBroodstock,20LP0228,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0046,23BR.046,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0047,23BR.047,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0048,23BR.048,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0049,23BR.049,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0050,23BR.050,BigCreekBroodstock,NA,18NF0064,BigCreekBroodstock,NA,NA,18_NA,1
+OkeAC23BICH_0051,23BR.051,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0052,23BR.052,BigCreekBroodstock,4,19QH0007,BigCreekBroodstock,19QH0001,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0053,23BR.053,BigCreekBroodstock,4,19QH0011,BigCreekBroodstock,19QH0006,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0054,23BR.054,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0055,23BR.055,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0056,23BR.056,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0057,23BR.057,BigCreekBroodstock,NA,19QH0034,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23BICH_0058,23BR.058,BigCreekBroodstock,4,19QH0028,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0059,23BR.059,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0060,23BR.060,BigCreekBroodstock,NA,19QH0033,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23BICH_0061,23BR.061,BigCreekBroodstock,4,19QH0050,BigCreekBroodstock,19QH0040,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0062,23BR.062,BigCreekBroodstock,3,20LP0265,BigCreekBroodstock,20LP0279,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0063,23BR.063,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0064,23BR.064,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0065,23BR.065,BigCreekBroodstock,3,20LP0074,BigCreekBroodstock,20LP0022,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0066,23BR.066,BigCreekBroodstock,4,19QH0033,BigCreekBroodstock,19QH0022,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0067,23BR.067,BigCreekBroodstock,3,20LP0120,BigCreekBroodstock,20LP0070,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0068,23BR.068,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0069,23BR.069,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0070,23BR.070,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0071,23BR.071,BigCreekBroodstock,NA,19QH0034,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23BICH_0072,23BR.072,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0073,23BR.073,BigCreekBroodstock,3,20LP0103,BigCreekBroodstock,20LP0052,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0074,23BR.074,BigCreekBroodstock,3,20LP0013,BigCreekBroodstock,20LP0004,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0075,23BR.075,BigCreekBroodstock,4,19QH0030,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0076,23BR.076,BigCreekBroodstock,3,20LP0094,BigCreekBroodstock,20LP0041,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0077,23BR.077,BigCreekBroodstock,4,19QH0026,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0078,23BR.078,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0079,23BR.079,BigCreekBroodstock,4,19QH0025,BigCreekBroodstock,19QH0014,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0080,23BR.080,BigCreekBroodstock,3,20LP0013,BigCreekBroodstock,20LP0004,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0081,23BR.081,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0082,23BR.082,BigCreekBroodstock,4,19QH0010,BigCreekBroodstock,19QH0003,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0083,23BR.083,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0084,23BR.084,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0085,23BR.085,BigCreekBroodstock,4,19QH0027,BigCreekBroodstock,19QH0016,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0086,23BR.086,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0087,23BR.087,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0088,23BR.088,BigCreekBroodstock,4,19QH0025,BigCreekBroodstock,19QH0014,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0089,23BR.089,BigCreekBroodstock,4,19QH0011,BigCreekBroodstock,19QH0005,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0090,23BR.090,BigCreekBroodstock,3,20LP0119,BigCreekBroodstock,20LP0067,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0091,23BR.091,BigCreekBroodstock,4,19QH0025,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0092,23BR.092,BigCreekBroodstock,4,19QH0034,BigCreekBroodstock,19QH0023,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0093,23BR.093,BigCreekBroodstock,3,20LP0084,BigCreekBroodstock,20LP0032,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0094,23BR.094,BigCreekBroodstock,3,20LP0185,BigCreekBroodstock,20LP0174,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0095,23BR.095,BigCreekBroodstock,4,19QH0007,BigCreekBroodstock,19QH0001,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0096,23BR.096,BigCreekBroodstock,4,19QH0007,BigCreekBroodstock,19QH0002,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0097,23BR.097,BigCreekBroodstock,NA,NA,NA,19QH0040,BigCreekBroodstock,NA_19,1
+OkeAC23BICH_0098,23BR.098,BigCreekBroodstock,4,19QH0011,BigCreekBroodstock,19QH0006,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0099,23BR.099,BigCreekBroodstock,3,20LP0255,BigCreekBroodstock,20LP0267,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0100,23BR.100,BigCreekBroodstock,4,19QH0050,BigCreekBroodstock,19QH0039,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0101,23BR.101,BigCreekBroodstock,4,19QH0029,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0102,23BR.102,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0104,23BR.104,BigCreekBroodstock,4,19QH0028,BigCreekBroodstock,19QH0016,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0105,23BR.105,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0106,23BR.106,BigCreekBroodstock,4,19QH0028,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0107,23BR.107,BigCreekBroodstock,3,20LP0013,BigCreekBroodstock,20LP0004,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0108,23BR.108,BigCreekBroodstock,3,20LP0313,BigCreekBroodstock,20LP0328,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0109,23BR.109,BigCreekBroodstock,3,20LP0017,BigCreekBroodstock,20LP0007,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0110,23BR.110,BigCreekBroodstock,4,19QH0025,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0111,23BR.111,BigCreekBroodstock,4,19QH0047,BigCreekBroodstock,19QH0037,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0112,23BR.112,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0113,23BR.113,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0114,23BR.114,BigCreekBroodstock,3,20LP0155,BigCreekBroodstock,20LP0164,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0115,23BR.115,BigCreekBroodstock,3,20LP0095,BigCreekBroodstock,20LP0044,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0116,23BR.116,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0117,23BR.117,BigCreekBroodstock,4,19QH0009,BigCreekBroodstock,19QH0003,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0118,23BR.118,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0119,23BR.119,BigCreekBroodstock,3,20LP0087,BigCreekBroodstock,20LP0035,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0120,23BR.120,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0121,23BR.121,BigCreekBroodstock,4,19QH0031,BigCreekBroodstock,19QH0020,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0122,23BR.122,BigCreekBroodstock,3,20LP0078,BigCreekBroodstock,20LP0025,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0123,23BR.123,BigCreekBroodstock,3,20LP0114,BigCreekBroodstock,20LP0063,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0124,23BR.124,BigCreekBroodstock,3,20LP0294,BigCreekBroodstock,20LP0282,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0125,23BR.125,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0126,23BR.126,BigCreekBroodstock,4,19QH0034,BigCreekBroodstock,19QH0023,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0127,23BR.127,BigCreekBroodstock,3,20LP0013,BigCreekBroodstock,20LP0003,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0128,23BR.128,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0129,23BR.129,BigCreekBroodstock,4,19QH0027,BigCreekBroodstock,19QH0016,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0130,23BR.130,BigCreekBroodstock,4,19QH0028,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0131,23BR.131,BigCreekBroodstock,4,19QH0029,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0132,23BR.132,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0133,23BR.133,BigCreekBroodstock,3,20LP0265,BigCreekBroodstock,20LP0278,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0134,23BR.134,BigCreekBroodstock,3,20LP0147,BigCreekBroodstock,20LP0157,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0135,23BR.135,BigCreekBroodstock,3,20LP0108,BigCreekBroodstock,20LP0057,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0136,23BR.136,BigCreekBroodstock,3,20LP0119,BigCreekBroodstock,20LP0067,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0137,23BR.137,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0138,23BR.138,BigCreekBroodstock,3,20LP0120,BigCreekBroodstock,20LP0069,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0139,23BR.139,BigCreekBroodstock,3,20LP0090,BigCreekBroodstock,20LP0037,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0140,23BR.140,BigCreekBroodstock,4,19QH0025,BigCreekBroodstock,19QH0014,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0142,23BR.142,BigCreekBroodstock,3,20LP0265,BigCreekBroodstock,20LP0279,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0143,23BR.143,BigCreekBroodstock,3,20LP0095,BigCreekBroodstock,20LP0044,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0144,23BR.144,BigCreekBroodstock,4,19QH0056,BigCreekBroodstock,19QH0045,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0145,23BR.145,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0146,23BR.146,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0147,23BR.147,BigCreekBroodstock,3,20LP0298,BigCreekBroodstock,20LP0287,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0148,23BR.148,BigCreekBroodstock,NA,NA,NA,20LP0045,BigCreekBroodstock,NA_20,1
+OkeAC23BICH_0149,23BR.149,BigCreekBroodstock,3,20LP0017,BigCreekBroodstock,20LP0008,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0150,23BR.150,BigCreekBroodstock,4,19QH0034,BigCreekBroodstock,19QH0023,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0289,23BR.289,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0290,23BR.290,BigCreekBroodstock,4,19QH0047,BigCreekBroodstock,19QH0037,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0291,23BR.291,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0292,23BR.292,BigCreekBroodstock,3,20LP0247,BigCreekBroodstock,20LP0232,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0293,23BR.293,BigCreekBroodstock,3,20LP0296,BigCreekBroodstock,20LP0285,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0294,23BR.294,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0295,23BR.295,BigCreekBroodstock,3,20LP0243,BigCreekBroodstock,20LP0227,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0296,23BR.296,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0297,23BR.297,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0298,23BR.298,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0299,23BR.299,BigCreekBroodstock,3,20LP0259,BigCreekBroodstock,20LP0272,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0300,23BR.300,BigCreekBroodstock,4,19QH0056,BigCreekBroodstock,19QH0045,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0301,23BR.301,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0302,23BR.302,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0303,23BR.303,BigCreekBroodstock,NA,NA,NA,20LP0174,BigCreekBroodstock,NA_20,1
+OkeAC23BICH_0304,23BR.304,BigCreekBroodstock,4,19QH0011,BigCreekBroodstock,19QH0005,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0305,23BR.305,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0306,23BR.306,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0307,23BR.307,BigCreekBroodstock,3,20LP0178,BigCreekBroodstock,20LP0166,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0308,23BR.308,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0309,23BR.309,BigCreekBroodstock,5,18NF0064,BigCreekBroodstock,18NF0055,BigCreekBroodstock,18_18,1
+OkeAC23BICH_0310,23BR.310,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0311,23BR.311,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0312,23BR.312,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0313,23BR.313,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0314,23BR.314,BigCreekBroodstock,4,19QH0027,BigCreekBroodstock,19QH0016,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0315,23BR.315,BigCreekBroodstock,4,19QH0027,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0316,23BR.316,BigCreekBroodstock,4,19QH0046,BigCreekBroodstock,19QH0035,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0317,23BR.317,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0318,23BR.318,BigCreekBroodstock,3,20LP0296,BigCreekBroodstock,20LP0284,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0319,23BR.319,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0320,23BR.320,BigCreekBroodstock,5,18NF0073,BigCreekBroodstock,18NF0094,BigCreekBroodstock,18_18,1
+OkeAC23BICH_0321,23BR.321,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0322,23BR.322,BigCreekBroodstock,3,20LP0244,BigCreekBroodstock,20LP0230,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0323,23BR.323,BigCreekBroodstock,4,19QH0050,BigCreekBroodstock,19QH0040,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0324,23BR.324,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0325,23BR.325,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0326,23BR.326,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0327,23BR.327,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0328,23BR.328,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0329,23BR.329,BigCreekBroodstock,NA,NA,NA,20LP0211,BigCreekBroodstock,NA_20,1
+OkeAC23BICH_0330,23BR.330,BigCreekBroodstock,3,20LP0265,BigCreekBroodstock,20LP0277,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0331,23BR.331,BigCreekBroodstock,4,19QH0026,BigCreekBroodstock,19QH0014,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0332,23BR.332,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0333,23BR.333,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0334,23BR.334,BigCreekBroodstock,4,19QH0030,BigCreekBroodstock,19QH0018,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0335,23BR.335,BigCreekBroodstock,4,19MW0052,GraysRiverHatchery,19MW0041,GraysRiverHatchery,19_19,1
+OkeAC23BICH_0336,23BR.336,BigCreekBroodstock,4,19QH0030,BigCreekBroodstock,19QH0018,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0337,23BR.337,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0338,23BR.338,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0339,23BR.339,BigCreekBroodstock,3,20LP0107,BigCreekBroodstock,20LP0055,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0340,23BR.340,BigCreekBroodstock,4,19QH0055,BigCreekBroodstock,19QH0044,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0341,23BR.341,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0342,23BR.342,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0343,23BR.343,BigCreekBroodstock,4,19QH0046,BigCreekBroodstock,19QH0035,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0344,23BR.344,BigCreekBroodstock,4,19QH0028,BigCreekBroodstock,19QH0016,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0345,23BR.345,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0346,23BR.346,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0347,23BR.347,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0348,23BR.348,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0349,23BR.349,BigCreekBroodstock,3,20LP0296,BigCreekBroodstock,20LP0284,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0350,23BR.350,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0351,23BR.351,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0352,23BR.352,BigCreekBroodstock,3,20LP0194,BigCreekBroodstock,20LP0206,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0353,23BR.353,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0354,23BR.354,BigCreekBroodstock,3,20LP0243,BigCreekBroodstock,20LP0227,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0355,23BR.355,BigCreekBroodstock,3,20LP0316,BigCreekBroodstock,20LP0330,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0356,23BR.356,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0357,23BR.357,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0358,23BR.358,BigCreekBroodstock,3,20LP0190,BigCreekBroodstock,20LP0204,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0359,23BR.359,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0360,23BR.360,BigCreekBroodstock,4,19QH0048,BigCreekBroodstock,19QH0038,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0361,23BR.361,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0362,23BR.362,BigCreekBroodstock,3,20LP0300,BigCreekBroodstock,20LP0288,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0363,23BR.363,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0364,23BR.364,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0365,23BR.365,BigCreekBroodstock,4,19QH0046,BigCreekBroodstock,19QH0035,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0366,23BR.366,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0367,23BR.367,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0368,23BR.368,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0369,23BR.369,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0370,23BR.370,BigCreekBroodstock,4,19QH0052,BigCreekBroodstock,19QH0042,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0371,23BR.371,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0372,23BR.372,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0373,23BR.373,BigCreekBroodstock,3,20LP0247,BigCreekBroodstock,20LP0231,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0374,23BR.374,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0375,23BR.375,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0376,23BR.376,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0377,23BR.377,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0378,23BR.378,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0379,23BR.379,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0380,23BR.380,BigCreekBroodstock,4,19QH0055,BigCreekBroodstock,19QH0044,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0381,23BR.381,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0382,23BR.382,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0383,23BR.383,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0384,23BR.384,BigCreekBroodstock,4,19QH0026,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0385,23BR.385,BigCreekBroodstock,4,19QH0047,BigCreekBroodstock,19QH0035,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0386,23BR.386,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0387,23BR.387,BigCreekBroodstock,4,19QH0047,BigCreekBroodstock,19QH0037,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0388,23BR.388,BigCreekBroodstock,3,20LP0263,BigCreekBroodstock,20LP0275,BigCreekBroodstock,20_20,1
+OkeAC23BICH_0389,23BR.389,BigCreekBroodstock,4,19QH0050,BigCreekBroodstock,19QH0040,BigCreekBroodstock,19_19,1
+OkeAC23BICH_0390,23BR.390,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0391,23BR.391,BigCreekBroodstock,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23BICH_0392,23BR.392,BigCreekBroodstock,NA,NA,NA,19QH0039,BigCreekBroodstock,NA_19,1
+OkeAC23BICH_0393,23BR.393,BigCreekBroodstock,4,19MW0128,GraysRiverHatchery,19MW0119,GraysRiverHatchery,19_19,1
+OkeAC23CARC_0249,23UF.249,Unfed Fry Outplant,3,20LP0244,BigCreekBroodstock,20LP0230,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0250,23UF.250,Unfed Fry Outplant,4,19QH0046,BigCreekBroodstock,19QH0035,BigCreekBroodstock,19_19,1
+OkeAC23CARC_0251,23UF.251,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0252,23UF.252,Unfed Fry Outplant,3,20LP0090,BigCreekBroodstock,20LP0038,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0253,23UF.253,Unfed Fry Outplant,NA,19QH0049,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23CARC_0254,23UF.254,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0255,23UF.255,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0256,23UF.256,Unfed Fry Outplant,4,19QH0012,BigCreekBroodstock,19QH0006,BigCreekBroodstock,19_19,1
+OkeAC23CARC_0257,23UF.257,Unfed Fry Outplant,3,20LP0149,BigCreekBroodstock,20LP0156,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0258,23UF.258,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0259,23UF.259,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0260,23UF.260,Unfed Fry Outplant,3,20LP0294,BigCreekBroodstock,20LP0282,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0261,23UF.261,Unfed Fry Outplant,4,19QH0046,BigCreekBroodstock,19QH0035,BigCreekBroodstock,19_19,1
+OkeAC23CARC_0262,23UF.262,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0263,23UF.263,Unfed Fry Outplant,4,19MW0075,GraysRiverHatchery,19MW0065,GraysRiverHatchery,19_19,1
+OkeAC23CARC_0264,23UF.264,Unfed Fry Outplant,NA,19QH0049,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23CARC_0265,23UF.265,Unfed Fry Outplant,3,20LP0125,BigCreekBroodstock,20LP0136,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0266,23UF.266,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0267,23UF.267,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0268,23UF.268,Unfed Fry Outplant,4,19QH0030,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23CARC_0269,23UF.269,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0270,23UF.270,Unfed Fry Outplant,NA,19QH0049,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23CARC_0271,23UF.271,Unfed Fry Outplant,3,20LP0073,BigCreekBroodstock,20LP0022,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0272,23UF.272,Unfed Fry Outplant,5,18NF0083,BigCreekBroodstock,18NF0104,BigCreekBroodstock,18_18,1
+OkeAC23CARC_0273,23UF.273,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0274,23UF.274,Unfed Fry Outplant,3,20LP0266,BigCreekBroodstock,20LP0278,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0275,23UF.275,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0276,23UF.276,Unfed Fry Outplant,4,19MW0174,GraysRiverHatchery,19MW0168,GraysRiverHatchery,19_19,1
+OkeAC23CARC_0277,23UF.277,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0278,23UF.278,Unfed Fry Outplant,3,20LP0266,BigCreekBroodstock,20LP0279,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0279,23UF.279,Unfed Fry Outplant,NA,NA,NA,18NF0051,BigCreekBroodstock,NA_18,1
+OkeAC23CARC_0280,23UF.280,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0281,23UF.281,Unfed Fry Outplant,4,19QH0026,BigCreekBroodstock,19QH0014,BigCreekBroodstock,19_19,1
+OkeAC23CARC_0282,23UF.282,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0283,23UF.283,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0284,23UF.284,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0285,23UF.285,Unfed Fry Outplant,3,20LP0181,BigCreekBroodstock,20LP0171,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0286,23UF.286,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23CARC_0287,23UF.287,Unfed Fry Outplant,3,20LP0254,BigCreekBroodstock,20LP0239,BigCreekBroodstock,20_20,1
+OkeAC23CARC_0288,23UF.288,Unfed Fry Outplant,3,20LP0264,BigCreekBroodstock,20LP0276,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0207,23OUT.207,Outplant,4,19QH0026,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23GNCR_0208,23OUT.208,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0210,23OUT.210,Outplant,3,20LP0296,BigCreekBroodstock,20LP0284,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0211,23OUT.211,Outplant,3,20LP0073,BigCreekBroodstock,20LP0022,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0212,23OUT.212,Outplant,3,20LP0081,BigCreekBroodstock,20LP0030,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0213,23OUT.213,Outplant,3,20LP0265,BigCreekBroodstock,20LP0279,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0214,23OUT.214,Outplant,NA,19QH0049,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23GNCR_0215,23OUT.215,Outplant,NA,20LP0310,BigCreekBroodstock,NA,NA,20_NA,1
+OkeAC23GNCR_0216,23OUT.216,Outplant,3,20LP0294,BigCreekBroodstock,20LP0283,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0218,23OUT.218,Outplant,3,20LP0248,BigCreekBroodstock,20LP0233,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0219,23OUT.219,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0220,23OUT.220,Outplant,4,19MW0070,GraysRiverHatchery,19MW0059,GraysRiverHatchery,19_19,1
+OkeAC23GNCR_0221,23OUT.221,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0222,23OUT.222,Outplant,3,20LP0263,BigCreekBroodstock,20LP0275,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0223,23OUT.223,Outplant,3,20LP0304,BigCreekBroodstock,20LP0323,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0224,23OUT.224,Outplant,3,20LP0155,BigCreekBroodstock,20LP0164,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0225,23OUT.225,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0226,23OUT.226,Outplant,NA,19MW0070,GraysRiverHatchery,NA,NA,19_NA,1
+OkeAC23GNCR_0227,23OUT.227,Outplant,NA,19QH0034,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23GNCR_0228,23OUT.228,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0229,23OUT.229,Outplant,3,20LP0092,BigCreekBroodstock,20LP0039,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0230,23OUT.230,Outplant,NA,19QH0049,BigCreekBroodstock,NA,NA,19_NA,1
+OkeAC23GNCR_0231,23OUT.231,Outplant,3,20LP0119,BigCreekBroodstock,20LP0068,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0232,23OUT.232,Outplant,3,20LP0254,BigCreekBroodstock,20LP0239,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0233,23OUT.233,Outplant,4,19QH0008,BigCreekBroodstock,19QH0001,BigCreekBroodstock,19_19,1
+OkeAC23GNCR_0235,23OUT.235,Outplant,3,20LP0254,BigCreekBroodstock,20LP0239,BigCreekBroodstock,20_20,1
+OkeAC23GNCR_0236,23OUT.236,Outplant,4,19QH0029,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23GNCR_0349,23OUT.349,Outplant,4,19QH0010,BigCreekBroodstock,19QH0003,BigCreekBroodstock,19_19,1
+OkeAC23GNCR_0350,23OUT.350,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0351,23OUT.351,Outplant,NA,NA,NA,19QH0040,BigCreekBroodstock,NA_19,1
+OkeAC23GNCR_0353,23OUT.353,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0354,23OUT.354,Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23GNCR_0356,23OUT.356,Outplant,3,20LP0098,BigCreekBroodstock,20LP0046,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0151,23UF.151,Unfed Fry Outplant,4,19QH0055,BigCreekBroodstock,19QH0044,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0152,23UF.152,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0153,23UF.153,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0154,23UF.154,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0155,23UF.155,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0157,23UF.157,Unfed Fry Outplant,3,20LP0108,BigCreekBroodstock,20LP0057,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0158,23UF.158,Unfed Fry Outplant,4,19QH0027,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0159,23UF.159,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0160,23UF.160,Unfed Fry Outplant,4,19QH0030,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0161,23UF.161,Unfed Fry Outplant,3,20LP0130,BigCreekBroodstock,20LP0138,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0162,23UF.162,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0163,23UF.163,Unfed Fry Outplant,3,20LP0013,BigCreekBroodstock,20LP0004,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0164,23UF.164,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0165,23UF.165,Unfed Fry Outplant,3,20LP0098,BigCreekBroodstock,20LP0045,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0166,23UF.166,Unfed Fry Outplant,3,20LP0089,BigCreekBroodstock,20LP0037,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0167,23UF.167,Unfed Fry Outplant,4,19QH0008,BigCreekBroodstock,19QH0001,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0168,23UF.168,Unfed Fry Outplant,4,19QH0047,BigCreekBroodstock,19QH0037,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0169,23UF.169,Unfed Fry Outplant,3,20LP0078,BigCreekBroodstock,20LP0025,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0170,23UF.170,Unfed Fry Outplant,4,19QH0050,BigCreekBroodstock,19QH0039,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0171,23UF.171,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,0.9896
+OkeAC23PAGC_0172,23UF.172,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0173,23UF.173,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0174,23UF.174,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0175,23UF.175,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0176,23UF.176,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0177,23UF.177,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0178,23UF.178,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0179,23UF.179,Unfed Fry Outplant,4,19QH0026,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0180,23UF.180,Unfed Fry Outplant,3,20LP0248,BigCreekBroodstock,20LP0233,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0181,23UF.181,Unfed Fry Outplant,4,19QH0050,BigCreekBroodstock,19QH0039,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0182,23UF.182,Unfed Fry Outplant,3,20LP0087,BigCreekBroodstock,20LP0035,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0183,23UF.183,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0184,23UF.184,Unfed Fry Outplant,3,20LP0124,BigCreekBroodstock,20LP0136,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0185,23UF.185,Unfed Fry Outplant,3,20LP0244,BigCreekBroodstock,20LP0230,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0186,23UF.186,Unfed Fry Outplant,3,20LP0124,BigCreekBroodstock,20LP0136,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0187,23UF.187,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0188,23UF.188,Unfed Fry Outplant,4,19QH0030,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0189,23UF.189,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0190,23UF.190,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0191,23UF.191,Unfed Fry Outplant,3,20LP0291,BigCreekBroodstock,20LP0280,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0192,23UF.192,Unfed Fry Outplant,3,20LP0259,BigCreekBroodstock,20LP0272,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0193,23UF.193,Unfed Fry Outplant,4,19QH0047,BigCreekBroodstock,19QH0037,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0194,23UF.194,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0195,23UF.195,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0196,23UF.196,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0197,23UF.197,Unfed Fry Outplant,3,20LP0073,BigCreekBroodstock,20LP0021,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0198,23UF.198,Unfed Fry Outplant,3,20LP0073,BigCreekBroodstock,20LP0021,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0199,23UF.199,Unfed Fry Outplant,NA,NA,NA,19QH0039,BigCreekBroodstock,NA_19,1
+OkeAC23PAGC_0200,23UF.200,Unfed Fry Outplant,3,20LP0078,BigCreekBroodstock,20LP0025,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0201,23UF.201,Unfed Fry Outplant,3,20LP0241,BigCreekBroodstock,20LP0226,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0202,23UF.202,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0203,23UF.203,Unfed Fry Outplant,3,20LP0256,BigCreekBroodstock,20LP0267,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0204,23UF.204,Unfed Fry Outplant,4,19QH0028,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0205,23UF.205,Unfed Fry Outplant,3,20LP0255,BigCreekBroodstock,20LP0267,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0206,23UF.206,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0207,23UF.207,Unfed Fry Outplant,4,19QH0029,BigCreekBroodstock,19QH0018,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0208,23UF.208,Unfed Fry Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0209,23RSI.209,RSI Outplant,3,20LP0093,BigCreekBroodstock,20LP0041,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0210,23RSI.210,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0211,23RSI.211,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0212,23RSI.212,RSI Outplant,4,19QH0025,BigCreekBroodstock,19QH0014,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0213,23RSI.213,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0214,23RSI.214,RSI Outplant,3,20LP0241,BigCreekBroodstock,20LP0226,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0215,23RSI.215,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0216,23RSI.216,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0217,23RSI.217,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0218,23RSI.218,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0219,23RSI.219,RSI Outplant,3,20LP0074,BigCreekBroodstock,20LP0022,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0220,23RSI.220,RSI Outplant,3,20LP0077,BigCreekBroodstock,20LP0025,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0221,23RSI.221,RSI Outplant,3,20LP0018,BigCreekBroodstock,20LP0008,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0222,23RSI.222,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0223,23RSI.223,RSI Outplant,4,19QH0049,BigCreekBroodstock,19QH0038,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0224,23RSI.224,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0225,23RSI.225,RSI Outplant,4,19QH0027,BigCreekBroodstock,19QH0015,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0226,23RSI.226,RSI Outplant,4,19QH0025,BigCreekBroodstock,19QH0013,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0227,23RSI.227,RSI Outplant,3,20LP0081,BigCreekBroodstock,20LP0030,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0228,23RSI.228,RSI Outplant,4,19QH0030,BigCreekBroodstock,19QH0017,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0229,23RSI.229,RSI Outplant,NA,NA,NA,20LP0330,BigCreekBroodstock,NA_20,0.9994
+OkeAC23PAGC_0230,23RSI.230,RSI Outplant,4,19QH0049,BigCreekBroodstock,19QH0038,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0231,23RSI.231,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0232,23RSI.232,RSI Outplant,NA,NA,NA,18NF0053,BigCreekBroodstock,NA_18,1
+OkeAC23PAGC_0233,23RSI.233,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0234,23RSI.234,RSI Outplant,3,20LP0296,BigCreekBroodstock,20LP0285,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0235,23RSI.235,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0236,23RSI.236,RSI Outplant,4,19QH0046,BigCreekBroodstock,19QH0037,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0237,23RSI.237,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0238,23RSI.238,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0239,23RSI.239,RSI Outplant,3,20LP0108,BigCreekBroodstock,20LP0056,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0240,23RSI.240,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0241,23RSI.241,RSI Outplant,3,20LP0291,BigCreekBroodstock,20LP0280,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0242,23RSI.242,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0243,23RSI.243,RSI Outplant,4,19QH0046,BigCreekBroodstock,19QH0035,BigCreekBroodstock,19_19,1
+OkeAC23PAGC_0244,23RSI.244,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0245,23RSI.245,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0246,23RSI.246,RSI Outplant,3,20LP0240,BigCreekBroodstock,20LP0226,BigCreekBroodstock,20_20,1
+OkeAC23PAGC_0247,23RSI.247,RSI Outplant,NA,NA,NA,NA,NA,NA_NA,1
+OkeAC23PAGC_0248,23RSI.248,RSI Outplant,3,20NB0133,GraysRiverHatchery,20NB0123,GraysRiverHatchery,20_20,1
+OkeCC23COLR_0034,SGS.G23.0078,SpawnerSurvery,4,19QH0008,BigCreekBroodstock,19QH0001,BigCreekBroodstock,19_19,1
+OkeCC23PLYC_0001,SGS.G23.0077,SpawnerSurvery,NA,NA,NA,NA,NA,NA_NA,1
